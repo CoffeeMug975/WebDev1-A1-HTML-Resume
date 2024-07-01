@@ -1,2 +1,2 @@
-# WebDev 1 Lab - Simple HTML Resume
+# WebDev 1 Assignment - Simple HTML Resume
 contains example for linking image<br>
